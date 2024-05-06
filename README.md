@@ -9,7 +9,7 @@ Free to use with credits to me (EZRVR), very effective but simple script for fli
 
 How to install
 
-Add propellerTaxi into resources
+Add propellerTaxi into resources 
 Add ensure propellerTaxi in server.cfg 
 Restart server
 Press shift to toggle Taxi Limits
