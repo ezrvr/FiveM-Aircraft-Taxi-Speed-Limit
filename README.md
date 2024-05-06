@@ -9,7 +9,7 @@
 > 
 > Free to use with credits to me (EZRVR), very effective but simple script for flight servers. 
 >
-> > <strong> How to Install </strong>
+> > <strong> How to Install </strong> <Br>
 > > Add propellerTaxi into resources <br>
 > > Add ensure propellerTaxi in server.cfg <br>
 > > Restart server <br>
